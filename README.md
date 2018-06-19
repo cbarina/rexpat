@@ -1,8 +1,3 @@
----
-title: Homepage
-layout: post
----
-
 # Welcome to something random (for now)
 
 A test place to jot down notes for living abroad in a more [intercultural](https://en.wikipedia.org/wiki/Interculturalism){:target="_blank"} manner. 

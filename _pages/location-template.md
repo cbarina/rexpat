@@ -1,5 +1,10 @@
-# Location name
-
+___
+toc: true
+permalink: # /city-countryhere/
+title: City, Country
+date: dateupdated here
+tags: [location guide, continenthere]
+___
 ## Custom/culture/context (Where am I??)
 ## Arrival 
 ### Getting there

@@ -1,5 +1,6 @@
 ---
-permalink: /
+permalink: /home/
+toc: true
 ---
 
 # Rexpat: Local guides for living (semi)local

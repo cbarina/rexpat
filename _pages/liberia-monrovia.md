@@ -5,6 +5,8 @@ title: Monrovia, Liberia
 date: 2018-06-20
 tags: [location guide, Africa]
 ---
+
+[Edit this page!](https://github.com/cbarina/rexpat/blob/master/{{ page.path }})
 ## Custom/culture/context (Where am I??)
 ## Arrival 
 ### Getting there

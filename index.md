@@ -1,9 +1,8 @@
 ---
 toc: true
+title: Welcome!
 ---
-# Welcome!
-
-![Silohoutte of a t-rex](img/t-rex-small.png){:class="img-responsive"}
+![Silohoutte of a t-rex](img/t-rex-small.png){:float="right"}
 
 A test place to jot down notes for living abroad in a more [intercultural](https://en.wikipedia.org/wiki/Interculturalism){:target="_blank"} manner. 
 

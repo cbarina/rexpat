@@ -1,5 +1,3 @@
-remote_theme: "mmistakes/minimal-mistakes"
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -13,19 +11,20 @@ remote_theme: "mmistakes/minimal-mistakes"
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+title                    : "Rexpat - Local guides for living (semi)local"
+title_separator          : "|"
+name                     : "CBarina"
+description              : "Local guides for living (semi)local."
+url                      : "https://cbarina.github.io"
+baseurl                  : "/rexpat"
+repository               : "cbarina/rexpat"
+teaser                   : "/img/t-rex-small.png"
+search: true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

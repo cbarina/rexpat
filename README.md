@@ -1,12 +1,6 @@
-# Welcome to something random (for now)
+# Rexpat: Local guides for living (semi)local
 
-## Contents
-{:.no_toc}
-
-* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
-
-![Silohoutte of a t-rex](img/t-rex.png){:height="50%" width="50%"}
+![Silohoutte of a t-rex](img/t-rex.png){:height="50%" width="50%" .align-right}
 
 A test place to jot down notes for living abroad in a more [intercultural](https://en.wikipedia.org/wiki/Interculturalism){:target="_blank"} manner. 
 

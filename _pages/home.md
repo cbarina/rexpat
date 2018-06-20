@@ -1,7 +1,6 @@
 ---
-permalink: /home/
+permalink: /
 toc: true
-layout: home
 ---
 
 ![Silohoutte of a t-rex](../img/t-rex-small.png){:class="img-responsive"}

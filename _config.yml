@@ -24,7 +24,6 @@ url                      : "https://cbarina.github.io"
 baseurl                  : "/rexpat"
 repository               : "cbarina/rexpat"
 teaser                   : "/img/t-rex-small.png"
-search: true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -200,7 +199,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # Asia/Bangkok
 
 
 # Plugins (previously gems:)
@@ -272,3 +271,4 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+      search: true

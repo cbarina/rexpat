@@ -1,6 +1,6 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Home"
+    url: /
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -13,3 +13,10 @@ main:
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
+    
+    
+docs:
+  - title: Location guides
+    children:
+      - title: "Monrovia, Liberia"
+        url: /monrovia-liberia/

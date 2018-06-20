@@ -1,6 +1,7 @@
 ---
 toc: true
 ---
+# Welcome!
 
 ![Silohoutte of a t-rex](img/t-rex-small.png){:class="img-responsive"}
 
@@ -9,12 +10,6 @@ A test place to jot down notes for living abroad in a more [intercultural](https
 Will soon include notes for [Monrovia, Liberia](monrovia-liberia), Hanoi, Mongolia, and other places, hopefully with datestamps so you know if the info is way too outdated or not. Also, since this site is using github, pull requests to edit should be possible. We'll see!
 
 Here's the latest [location template](location-template.md) for starting off...
-
-# [Monrovia, Liberia](liberia-monrovia.md)
-
-# Hanoi, Vietnam
-
-# Other matters
 
 ## Something's wrong/old/outdated!
 You can edit it directly and submit it to be updated! Here's a [quick guide](https://michaeljaylissner.com/posts/2014/10/06/editing-on-github-a-non-technical-explainer/){:target="_blank"} as to how to do that - you'll neeed to know the location filename to do so (naming convention: countryname-cityname.md).

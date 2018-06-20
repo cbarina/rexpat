@@ -2,11 +2,11 @@
 toc: true
 ---
 
-![Silohoutte of a t-rex](../img/t-rex-small.png){:class="img-responsive"}
+![Silohoutte of a t-rex](img/t-rex-small.png){:class="img-responsive"}
 
 A test place to jot down notes for living abroad in a more [intercultural](https://en.wikipedia.org/wiki/Interculturalism){:target="_blank"} manner. 
 
-Will soon include notes for [Monrovia, Liberia](liberia-monrovia.md), Hanoi, Mongolia, and other places, hopefully with datestamps so you know if the info is way too outdated or not. Also, since this site is using github, pull requests to edit should be possible. We'll see!
+Will soon include notes for [Monrovia, Liberia](monrovia-liberia), Hanoi, Mongolia, and other places, hopefully with datestamps so you know if the info is way too outdated or not. Also, since this site is using github, pull requests to edit should be possible. We'll see!
 
 Here's the latest [location template](location-template.md) for starting off...
 

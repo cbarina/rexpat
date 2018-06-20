@@ -1,3 +1,8 @@
+---
+toc: true
+permalink: /monrovia-liberia/
+---
+
 # Liberia (Monrovia)
 
 ## Custom/culture/context (Where am I??)

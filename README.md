@@ -1,6 +1,6 @@
 # Rexpat: Local guides for living (semi)local
 
-![Silohoutte of a t-rex](img/t-rex.png){:height="50%" width="50%" .align-right}
+![Silohoutte of a t-rex](img/t-rex-small.png){: .align-right}
 
 A test place to jot down notes for living abroad in a more [intercultural](https://en.wikipedia.org/wiki/Interculturalism){:target="_blank"} manner. 
 

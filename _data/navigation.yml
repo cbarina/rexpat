@@ -20,4 +20,5 @@ docs:
     children:
       - title: "Monrovia, Liberia"
         url: /monrovia-liberia/
-    
+  - title: Edit this page!
+    url: https://github.com/cbarina/rexpat/commits/master/{{ page.path }}

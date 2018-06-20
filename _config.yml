@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : cbarina
   gitlab           :
   google_plus      :
   keybase          :
@@ -199,7 +199,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # Asia/Bangkok
+timezone: Asia/Bangkok
 
 
 # Plugins (previously gems:)
